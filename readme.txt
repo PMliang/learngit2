@@ -4,3 +4,4 @@ The third day to learn git.
 git has a Working Directory concept.
 This is dev branch.
 Creating a new branch is quick and simple.
+commit by --no-ff.
